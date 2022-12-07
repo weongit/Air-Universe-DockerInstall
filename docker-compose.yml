@@ -2,7 +2,7 @@ version: '3'
 
 services:
   airu1:
-    image: crossfw/airu
+    image: vxvv/airu
     container_name: airu1
     restart: always
     network_mode: host
